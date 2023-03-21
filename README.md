@@ -4,13 +4,17 @@ Ez a Laravel Breeze magyarosítása.
 
 ## Telepítés
 
-A lang és resources mappák tartalmait másoljuk be a Laravel gyökérkönyvárában található lang és resources mappákba.
+1. Telepítsünk fel egy Laravel alkalmazást.
 
-A Laravel 10 esetében a lang mappa eléréséhez futtasuk a következő parancsot:
+**FONTOS**
+
+Laravel 10 esetében a lang mappa eléréséhez futtasuk a következő parancsot:
 
 ```bash
 php artisan lang:publish
 ```
+
+2. A lang és resources mappák tartalmait másoljuk be a Laravel gyökérkönyvárában található lang és resources mappákba.
 
 ## Licence
 

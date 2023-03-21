@@ -1,23 +1,17 @@
-## Introduction
+## Bevezető
 
-This is a Hungarian translation for Laravel Breeze.
+Ez a Laravel Breeze magyarosítása.
 
-## Installation
+## Telepítés
 
-Run the following command
+A lang és resources mappák tartalmait másoljuk be a Laravel gyökérkönyvárában található lang és resources mappákba.
+
+A Laravel 10 esetében a lang mappa eléréséhez futtasuk a következő parancsot:
+
 ```bash
-composer require balazsaronszalai/breeze-hungarian
+php artisan lang:publish
 ```
-
-After that you can install the package like Laravel Breeze, but use breeze-hungarian in the installation command. Everything will be the same like in Laravel Breeze.
-
-Like this:
-```bash
-php artisan breeze-hungarian:install
-```
-
-Enjoy it!
 
 ## Licence
 
-You can read the license [here](https://github.com/BalazsAronSzalai/breeze-hungarian/blob/master/LICENSE).
+You can read the license [here](https://github.com/BalazsAronSzalai/laravel-breeze-hungarian-language-files/blob/master/LICENSE).

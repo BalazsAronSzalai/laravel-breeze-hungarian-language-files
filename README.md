@@ -29,4 +29,4 @@ git clone https://github.com/BalazsAronSzalai/laravel-breeze-hungarian-language-
 
 ## Licence
 
-You can read the license [here](https://github.com/BalazsAronSzalai/laravel-breeze-hungarian-language-files/blob/master/LICENSE).
+You can read the license [here](/LICENSE).

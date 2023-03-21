@@ -8,7 +8,7 @@ Ez a Laravel Breeze magyarosítása.
 
 2. Telepítsük fel a Laravel Breeze package-et.
 
-> **Warning**
+> **Fontos**
 > Fontos
 
 Laravel 10 esetében a lang mappa eléréséhez futtasuk a következő parancsot:

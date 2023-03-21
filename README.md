@@ -23,7 +23,7 @@ php artisan lang:publish
 git clone https://github.com/BalazsAronSzalai/laravel-breeze-hungarian-language-files.git 
 ```
 
-4. A lang és resources mappák tartalmait másoljuk be a Laravel gyökérkönyvárában található lang és resources mappákba.
+4. A config, lang és resources mappák tartalmaival írjuk felül az azonos nevű fájlokat.
 
 5. Töröljük a felesleges fájlokat és a git repo klónozásával létrejött laravel-breeze-hungarian-language-files mappát.
 

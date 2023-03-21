@@ -6,7 +6,11 @@ Ez a Laravel Breeze magyarosítása.
 
 1. Telepítsünk fel egy Laravel alkalmazást.
 
+Az alkalmazás telepítésével kapcsolatban [ide](https://laravel.com/docs/10.x/installation#your-first-laravel-project) kattintva találsz angol nyelvű információkat.
+
 2. Telepítsük fel a Laravel Breeze package-et.
+
+A Laravel Breeze telepítésével kapcsolatban [ide](https://laravel.com/docs/10.x/starter-kits#laravel-breeze-installation) kattintva találsz angol nyelvű információkat.
 
 > **Warning**
 > Fontos
@@ -27,6 +31,6 @@ git clone https://github.com/BalazsAronSzalai/laravel-breeze-hungarian-language-
 
 5. Töröljük a felesleges fájlokat és a git repo klónozásával létrejött laravel-breeze-hungarian-language-files mappát.
 
-## Licence
+## Licensz feltételek
 
-You can read the license [here](/LICENSE).
+A Licensz feltételeket [itt](/LICENSE) találod.
